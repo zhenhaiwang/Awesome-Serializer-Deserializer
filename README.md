@@ -5,3 +5,4 @@
   - [ZeroFormatter](https://github.com/neuecc/ZeroFormatter) - Fastest C# serializer and infinitely fast deserializer for .NET, .NET Core and Unity
   - [MessagePack](https://github.com/neuecc/MessagePack-CSharp) - Extremely fast MessagePack serializer for C# (.NET, .NET Core, Unity, Xamarin) / msgpack.org[C#]
   - [Utf8Json](https://github.com/neuecc/Utf8Json) - Definitely fastest and zero allocation JSON serializer for C# (.NET, .NET Core, Unity, Xamarin)
+  - [Json.Net.Unity3D](https://github.com/SaladLab/Json.Net.Unity3D) - Forked Newtonsoft.Json to support Unity3D
